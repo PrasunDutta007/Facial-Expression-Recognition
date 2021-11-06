@@ -79,3 +79,8 @@
 <img src="Screenshots/code-3.png" width="720px" height="470px">
 <img src="Screenshots/code-4.png" width="720px" height="470px">
 
+## Resources
+
+https://docs.nvidia.com/deeplearning/cudnn/install-guide/index.html#install-windows
+https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
+https://pythonprogramming.net/haar-cascade-face-eye-detection-python-opencv-tutorial/
