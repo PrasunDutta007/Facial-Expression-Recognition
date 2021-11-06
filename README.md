@@ -81,6 +81,6 @@
 
 ## Resources
 
-https://docs.nvidia.com/deeplearning/cudnn/install-guide/index.html#install-windows
-https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
-https://pythonprogramming.net/haar-cascade-face-eye-detection-python-opencv-tutorial/
+- https://docs.nvidia.com/deeplearning/cudnn/install-guide/index.html#install-windows <br>
+- https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data <br>
+- https://pythonprogramming.net/haar-cascade-face-eye-detection-python-opencv-tutorial/ <br>
